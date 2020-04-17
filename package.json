@@ -1,0 +1,28 @@
+{
+  "name": "pronet-new",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "lite":"lite-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DmPrkp/ProNet.git"
+  },
+  "author": "Dm Prkp",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DmPrkp/ProNet/issues"
+  },
+  "homepage": "https://github.com/DmPrkp/ProNet#readme",
+  "devDependencies": {
+    "bootstrap": "^4.4.1",
+    "bootstrap-social": "^5.1.1",
+    "font-awesome": "^4.7.0",
+    "jquery": "^3.5.0",
+    "lite-server": "^2.5.4",
+    "popper.js": "^1.16.1"
+  }
+}
